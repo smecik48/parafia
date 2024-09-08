@@ -4258,7 +4258,7 @@ function Historia(){
                     <img src={image}/>
 
                         <p>&nbsp;</p>
-                        <p align="left">
+                        <p>
     <span style={{color: "#000000"}}>
       <span style={{fontFamily: "Arial Black"}}>
         <span style={{fontSize: "large"}}>
@@ -4267,17 +4267,17 @@ function Historia(){
       </span>
     </span>
                         </p>
-                        <p align="left">
+                        <p>
     <span style={{color: "#000000"}}>
       <span/>
     </span>
                         </p>
-                        <p align="left"/>
-                        <p align="left"/>
-                        <p align="left"/>
-                        <p align="left"/>
-                        <p align="left"/>
-                        <p align="justify">
+                        <p/>
+                        <p/>
+                        <p/>
+                        <p/>
+                        <p/>
+                        <p>
     <span style={{color: "#000000"}}>
       <span>
         <span style={{fontFamily: "Arial"}}>
@@ -4290,8 +4290,8 @@ function Historia(){
       </span>
     </span>
                         </p>
-                        <p align="justify"/>
-                        <p align="justify">
+                        <p/>
+                        <p>
     <span style={{color: "#000000"}}>
       <span/>
     </span>
@@ -4303,8 +4303,8 @@ function Historia(){
       </span>
     </span>
                         </p>
-                        <p align="justify"/>
-                        <p align="justify">
+                        <p/>
+                        <p>
     <span style={{color: "#000000"}}>
       <span style={{fontFamily: "Arial"}}>
         <span style={{fontSize: "large"}}>
@@ -4335,7 +4335,7 @@ function Historia(){
       </span>
     </span>
                         </p>
-                        <p align="justify">
+                        <p>
     <span style={{color: "#000000"}}>
       <span>
         <span style={{fontFamily: "Arial"}}>
@@ -4352,7 +4352,7 @@ function Historia(){
                         </p>
 
 
-                        <p align="justify">
+                        <p>
     <span style={{color: "#000000"}}>
       <span style={{fontFamily: "Arial"}}>
         <span style={{fontSize: "large"}}>
@@ -4370,7 +4370,7 @@ function Historia(){
       </span>
     </span>
                         </p>
-                        <p align="justify">
+                        <p>
     <span style={{color: "#000000"}}>
       <span>
         <span style={{fontFamily: "Arial"}}>
@@ -4383,7 +4383,7 @@ function Historia(){
       </span>
     </span>
                         </p>
-                        <p align="justify">
+                        <p>
     <span style={{color: "#000000"}}>
       <span>
         <span style={{fontFamily: "Arial"}}>
@@ -4399,7 +4399,7 @@ function Historia(){
     </span>
                         </p>
 
-                        <p align="justify">
+                        <p>
     <span style={{color: "#000000"}}>
       <span>
         <span style={{fontFamily: "Arial"}}>

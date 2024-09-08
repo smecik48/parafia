@@ -3,3 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/smecik48/repositories/parafia/
     - /bin/cp * $DEPLOYPATH
+    - npm

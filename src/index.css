@@ -1,15 +1,17 @@
 
 button{
   padding:20px;
+  margin: 5px;
 }
 
 body {
-  margin: 0;
+  margin: 5px;
   display: flex;
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
   background-color: #8B4513;
+  background-image: url("ivy.png")
 }
 
 h1 {
