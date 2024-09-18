@@ -7,6 +7,7 @@ import Historia from "./Historia.tsx";
 import StronaGlowna from "./StronaGlowna.tsx";
 import baner from "./baner.png";
 import Ogloszenia from "./Ogloszenia.tsx";
+import ZapytanieOfertowe from "./ZapytanieOfertowe.tsx";
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
                         <Route path="Historia" element={<Historia />} />
                         <Route path="Ogloszenia" element={<Ogloszenia />}/>
                         <Route path="PlanMszy" element={<PlanMszy />} />
+                        <Route path={"ZapytanieOfertowe"} element={<ZapytanieOfertowe />}/>
                     </Route>
                 </Routes>
             </BrowserRouter>

@@ -30,6 +30,10 @@ function Layout(){
                         style={{backgroundColor: "#AF601A", borderColor: "#784212", borderWidth: "2px"}}>
                     <StyledLink to="/planmszy">Porządek mszy i dodatkowe informacje</StyledLink>
                 </button>
+                <button type="button" className="btn btn-secondary"
+                        style={{backgroundColor: "#AF601A", borderColor: "#784212", borderWidth: "2px"}}>
+                    <StyledLink to="/zapytanieofertowe">Zapytanie Ofertowe</StyledLink>
+                </button>
 
             </nav>
             <div style={{backgroundColor: "white", padding: "20px", borderRadius: "4px"}} className={"container-xl"}>
