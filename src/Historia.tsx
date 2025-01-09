@@ -1,10 +1,12 @@
 import image from "./ks.png";
+import {Helmet} from "react-helmet";
 
 
 function Historia(){
 
     return (
         <>
+            <Helmet><title>Parafia Mokrelipie - Historia Parafii</title></Helmet>
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <meta charSet="utf-8" />
             <title></title>

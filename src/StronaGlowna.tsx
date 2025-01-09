@@ -1,10 +1,14 @@
+import {Helmet} from "react-helmet";
 
+import Photos from "./Photos.tsx";
 
 function StronaGlowna(){
     return(
-        <div>
+        <div style={{maxWidth:"1000px"}}>
+            <Helmet><title>Parafia pw. Znalezienia Krzyża Świętego - Mokrelipie</title></Helmet>
+            <b style={{fontSize:"20px"} }>Aktualności</b> <br/>
 
-            <b style={{fontSize:"20px"} }>Strona internetowa poświęcona Parafii pw. Znalezienia Krzyża Świętego - Mokrelipie</b>
+            <Photos/>
 
         </div>
 

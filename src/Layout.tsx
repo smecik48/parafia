@@ -32,7 +32,7 @@ function Layout(){
                 </button>
                 <button type="button" className="btn btn-secondary"
                         style={{backgroundColor: "#AF601A", borderColor: "#784212", borderWidth: "2px"}}>
-                    <StyledLink to="/zapytanieofertowe">Zapytanie Ofertowe</StyledLink>
+                    <StyledLink to="/zapytanieofertowe">Refundacja</StyledLink>
                 </button>
 
             </nav>

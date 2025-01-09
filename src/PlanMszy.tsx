@@ -1,7 +1,10 @@
 import "./App.css"
+import {Helmet} from "react-helmet";
 function PlanMszy(){
 
     return (
+        <>
+            <Helmet><title>Parafia Mokrelipie - Informacje</title></Helmet>
         <div style={{textAlign: "left"}}>
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <meta charSet="utf-8" />
@@ -407,7 +410,7 @@ function PlanMszy(){
                 </strong>
             </p>
         </div>
-
+        </>
     )
 }
 
